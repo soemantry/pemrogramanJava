@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec8f0d28-2a10-464c-a209-91d6592d2daa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Percabangan/src/com/soemantry/javafundamental/percabangan/IfThen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Percabangan/src/com/soemantry/javafundamental/percabangan/IfThenElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Percabangan/src/com/soemantry/javafundamental/percabangan/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Percabangan/src/com/soemantry/javafundamental/percabangan/SwitchTanpaBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Percabangan/src/com/soemantry/javafundamental/percabangan/ifThenElseIfThenElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../perulangan/src/com/soemantry/javafundamental/perulangan/DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../perulangan/src/com/soemantry/javafundamental/perulangan/For.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../perulangan/src/com/soemantry/javafundamental/perulangan/ForBersarang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../perulangan/src/com/soemantry/javafundamental/perulangan/While.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InputOutput" beforeDir="false" afterPath="$PROJECT_DIR$/../InputOutput" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1h4ceHklXVcXSiYndy2e4Pe9QM3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.MultiDimensiArray">
+    <configuration name="InisiasiArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soemantry.javafundamental.array.InisiasiArray" />
+      <module name="Array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soemantry.javafundamental.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiDimensiArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soemantry.javafundamental.array.MultiDimensiArray" />
+      <module name="Array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soemantry.javafundamental.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MultiDimensiArray" />
+        <item itemvalue="Application.InisiasiArray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec8f0d28-2a10-464c-a209-91d6592d2daa" name="Default Changelist" comment="" />
+      <created>1599273900652</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599273900652</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="812" height="176" key="GridCell.Tab.0.bottom" timestamp="1599277750306">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="812" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599277750306" />
+    <state width="812" height="176" key="GridCell.Tab.0.center" timestamp="1599277750305">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="812" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599277750305" />
+    <state width="812" height="176" key="GridCell.Tab.0.left" timestamp="1599277750305">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="812" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599277750305" />
+    <state width="812" height="176" key="GridCell.Tab.0.right" timestamp="1599277750306">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="812" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599277750306" />
+    <state x="0" y="0" key="new project wizard" timestamp="1599370108823">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1599370108823" />
+  </component>
+</project>
